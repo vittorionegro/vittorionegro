@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and C++**
 
-- 📫 How to reach me **vittorio.negro@icloud.com**
+- 📫 How to reach me **io@vittorionegro.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
