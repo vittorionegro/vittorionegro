@@ -1,9 +1,9 @@
 # Vittorio Negro
 
-**IT & Cybersecurity · Genova, Italy**
+**IT & Cybersecurity**
 
 Offensive security focus. Working toward OSCP.  
-Active on HackTheBox, PortSwigger Web Security Academy, and OverTheWire.
+Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.
 
 ---
 
