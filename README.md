@@ -3,7 +3,7 @@
 
 
 ## 🌐 Find Me:
-[![website](https://img.shields.io/badge/vittorionegro.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vittorionegro.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:io@vittorionegro.com)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:io@vittorionegro.com) 
 
 # 💻 Tech Stack:
