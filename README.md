@@ -1,14 +1,14 @@
-# 💫 About Me:
+# about me:
 **IT & Cybersecurity**<br><br>Offensive security focus. Working toward eJPT.  <br>Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.<br>
 
-## 🌐 Find Me:
+## find me:
 [![website](https://img.shields.io/badge/vittorionegro.com-000000?style=flat&logo=internetexplorer&logoColor=white)](https://vittorionegro.com)
 [![email](https://img.shields.io/badge/io@vittorionegro.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:io@vittorionegro.com)
 
-# 💻 Tech Stack:
+# tech stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
+# stats:
 ![](https://github-readme-stats.shion.dev/api?username=vittorionegro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=vittorionegro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vittorionegro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
