@@ -1,5 +1,5 @@
 # 💫 About Me:
-**IT & Cybersecurity**<br><br>Offensive security focus. Working toward OSCP.  <br>Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.<br>
+**IT & Cybersecurity**<br><br>Offensive security focus. Working toward eJPT.  <br>Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.<br>
 
 ## 🌐 Find Me:
 [![website](https://img.shields.io/badge/vittorionegro.com-000000?style=flat&logo=internetexplorer&logoColor=white)](https://vittorionegro.com)
