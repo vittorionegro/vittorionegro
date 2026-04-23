@@ -1,7 +1,7 @@
 # about me:
 **IT & Cybersecurity**<br><br>Offensive security focus. Working toward eJPT.  <br>Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.<br>
 
-## find me:
+# find me:
 [![website](https://img.shields.io/badge/vittorionegro.com-000000?style=flat&logo=internetexplorer&logoColor=white)](https://vittorionegro.com)
 [![email](https://img.shields.io/badge/io@vittorionegro.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:io@vittorionegro.com)
 
