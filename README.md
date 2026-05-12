@@ -1,5 +1,4 @@
-# about me:
-**IT & Cybersecurity**<br><br>Offensive security focus. Working toward eJPT.  <br>Active on **HackTheBox**, **PortSwigger Web Security Academy**, and **OverTheWire**.<br>
+**IT & Cybersecurity**<br><br>Offensive security focus. Currently working through the HTB Penetration Tester path toward CPTS.<br>Active on **HackTheBox** and **PortSwigger Web Security Academy**.<br>
 
 # find me:
 [![website](https://img.shields.io/badge/vittorionegro.com-000000?style=flat&logo=internetexplorer&logoColor=white)](https://vittorionegro.com)
