@@ -1,10 +1,9 @@
 ## about me
 
-IT Technician at [Overcloud S.r.l.](https://overcloud.it), a managed service provider specialized in IBM Power i (AS400).
-Day to day: firewalls, Windows and Linux server administration, IBM i systems.
+IT Technician @ [Overcloud S.r.l.](https://overcloud.it), a managed service provider specialized in IBM Power i AS400.
 
 Offensive security focus. Currently working through the HackTheBox Penetration Tester path toward **CPTS**.
-Practicing on HackTheBox and PortSwigger Web Security Academy.
+Practicing on HackTheBox and PortSwigger.
 
 ## writeups
 
