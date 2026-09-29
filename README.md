@@ -9,8 +9,6 @@ Practicing on HackTheBox and PortSwigger.
 
 Notes and walkthroughs from retired HackTheBox machines: [**/writeups**](https://github.com/vittorionegro/writeups)
 
-- [HTB — Nibbles](https://github.com/vittorionegro/writeups/tree/master/nibbles)
-
 ## stack
 
 **Infrastructure**
