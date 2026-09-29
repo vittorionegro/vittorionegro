@@ -30,5 +30,5 @@ Notes and walkthroughs from retired HackTheBox machines: [**/writeups**](https:/
 
 ## contact
 
-[![site](https://img.shields.io/badge/vittorionegro.com-1f2328?style=flat-square&logo=googlechrome&logoColor=white)](https://vittorionegro.com)
-[![email](https://img.shields.io/badge/v@vittorionegro.com-1f2328?style=flat-square&logo=maildotru&logoColor=white)](mailto:v@vittorionegro.com)
+[![site](https://img.shields.io/badge/vittorionegro.com-1f2328?style=flat-square)](https://vittorionegro.com)
+[![email](https://img.shields.io/badge/v@vittorionegro.com-1f2328?style=flat-square)](mailto:v@vittorionegro.com)
