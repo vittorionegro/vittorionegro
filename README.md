@@ -1,9 +1,37 @@
-# about me:
-**IT & Cybersecurity**<br><br>Offensive security focus. Currently working through the HTB Penetration Tester path toward CPTS.<br>Active on **HackTheBox** and **PortSwigger Web Security Academy**.<br>
+## about me
 
-# find me:
-[![website](https://img.shields.io/badge/vittorionegro.com-000000?style=flat&logo=internetexplorer&logoColor=white)](https://vittorionegro.com)
-[![email](https://img.shields.io/badge/v@vittorionegro.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:v@vittorionegro.com)
+IT Technician at [Overcloud S.r.l.](https://overcloud.it), a managed service provider specialized in IBM Power i (AS400).
+Day to day: firewalls, Windows and Linux server administration, IBM i systems.
 
-# tech stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Offensive security focus. Currently working through the HackTheBox Penetration Tester path toward **CPTS**.
+Practicing on HackTheBox and PortSwigger Web Security Academy.
+
+## writeups
+
+Notes and walkthroughs from retired HackTheBox machines: [**/writeups**](https://github.com/vittorionegro/writeups)
+
+- [HTB — Nibbles](https://github.com/vittorionegro/writeups/tree/master/nibbles)
+
+## stack
+
+**Infrastructure**
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-1f2328?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=white)
+![IBM i](https://img.shields.io/badge/IBM_i_(AS400)-1f2328?style=flat-square&logo=ibm&logoColor=white)
+![SonicWall](https://img.shields.io/badge/SonicWall-1f2328?style=flat-square)
+
+**Security**
+
+![Nmap](https://img.shields.io/badge/Nmap-1f2328?style=flat-square)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-1f2328?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1f2328?style=flat-square&logo=openjdk&logoColor=white)
+
+## contact
+
+[![site](https://img.shields.io/badge/vittorionegro.com-1f2328?style=flat-square&logo=googlechrome&logoColor=white)](https://vittorionegro.com)
+[![email](https://img.shields.io/badge/v@vittorionegro.com-1f2328?style=flat-square&logo=maildotru&logoColor=white)](mailto:v@vittorionegro.com)
