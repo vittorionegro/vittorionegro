@@ -5,28 +5,24 @@ IT Technician @ [Overcloud S.r.l.](https://overcloud.it), a managed service prov
 Offensive security focus. Currently working through the HackTheBox Penetration Tester path toward **CPTS**.
 Practicing on HackTheBox and PortSwigger.
 
+## what I work on
+
+- Configuring and maintaining SonicWall firewalls for client networks
+- Administering Windows and Linux servers
+- Supporting IBM i (AS400) systems for MSP clients
+- Deploying ManageEngine ServiceDesk Plus Cloud and building out helpdesk ticketing
+
 ## writeups
 
 Notes and walkthroughs from retired HackTheBox machines: [**/writeups**](https://github.com/vittorionegro/writeups)
 
 ## stack
 
-**Infrastructure**
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjkuNSIgaGVpZ2h0PSI5LjUiLz48cmVjdCB4PSIxMi41IiB5PSIyIiB3aWR0aD0iOS41IiBoZWlnaHQ9IjkuNSIvPjxyZWN0IHg9IjIiIHk9IjEyLjUiIHdpZHRoPSI5LjUiIGhlaWdodD0iOS41Ii8%2BPHJlY3QgeD0iMTIuNSIgeT0iMTIuNSIgd2lkdGg9IjkuNSIgaGVpZ2h0PSI5LjUiLz48L3N2Zz4%3D)
 ![Linux](https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=white)
-![IBM i](https://img.shields.io/badge/IBM_i_(AS400)-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjciIHJ4PSIxLjUiLz48cmVjdCB4PSIzIiB5PSIxNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjciIHJ4PSIxLjUiLz48bGluZSB4MT0iNyIgeTE9IjYuNSIgeDI9IjcuMDEiIHkyPSI2LjUiLz48bGluZSB4MT0iNyIgeTE9IjE3LjUiIHgyPSI3LjAxIiB5Mj0iMTcuNSIvPjwvc3ZnPg%3D%3D)
-![SonicWall](https://img.shields.io/badge/SonicWall-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMSIvPjxsaW5lIHgxPSIyIiB5MT0iOS4zMyIgeDI9IjIyIiB5Mj0iOS4zMyIvPjxsaW5lIHgxPSIyIiB5MT0iMTQuNjYiIHgyPSIyMiIgeTI9IjE0LjY2Ii8%2BPGxpbmUgeDE9IjEyIiB5MT0iNCIgeDI9IjEyIiB5Mj0iOS4zMyIvPjxsaW5lIHgxPSI3IiB5MT0iOS4zMyIgeDI9IjciIHkyPSIxNC42NiIvPjxsaW5lIHgxPSIxNyIgeTE9IjkuMzMiIHgyPSIxNyIgeTI9IjE0LjY2Ii8%2BPGxpbmUgeDE9IjEyIiB5MT0iMTQuNjYiIHgyPSIxMiIgeTI9IjIwIi8%2BPC9zdmc%2B)
-
-**Security**
-
-![Nmap](https://img.shields.io/badge/Nmap-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxsaW5lIHgxPSIxMiIgeTE9IjEyIiB4Mj0iMTkiIHkyPSI1Ii8%2BPC9zdmc%2B)
-
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-1f2328?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1f2328?style=flat-square&logo=openjdk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxsaW5lIHgxPSIxMiIgeTE9IjEyIiB4Mj0iMTkiIHkyPSI1Ii8%2BPC9zdmc%2B)
 
 ## contact
 
