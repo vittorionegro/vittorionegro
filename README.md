@@ -20,5 +20,4 @@ Notes and walkthroughs from HackTheBox machines: [**/writeups**](https://github.
 ## contact
 
 [![vittorionegro.com](https://vittorionegro.com/badges/website.svg)](https://vittorionegro.com)
-[![LinkedIn](https://vittorionegro.com/badges/linkedin.svg)](https://www.linkedin.com/in/vittorionegro/)
 [![Contact me](https://vittorionegro.com/badges/contact.svg)](mailto:v@vittorionegro.com)
