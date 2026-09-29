@@ -5,16 +5,9 @@ IT Technician @ [Overcloud S.r.l.](https://overcloud.it), a managed service prov
 Offensive security focus. Currently working through the HackTheBox Penetration Tester path toward **CPTS**.
 Practicing on HackTheBox and PortSwigger.
 
-## what I work on
-
-- Configuring and maintaining SonicWall firewalls for client networks
-- Administering Windows and Linux servers
-- Supporting IBM i (AS400) systems for MSP clients
-- Deploying ManageEngine ServiceDesk Plus Cloud and building out helpdesk ticketing
-
 ## writeups
 
-Notes and walkthroughs from retired HackTheBox machines: [**/writeups**](https://github.com/vittorionegro/writeups)
+Notes and walkthroughs from HackTheBox machines: [**/writeups**](https://github.com/vittorionegro/writeups)
 
 ## stack
 
