@@ -18,7 +18,7 @@ Notes and walkthroughs from HackTheBox machines: [**/writeups**](https://github.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-## contact
+## contact & profiles
 
 [![vittorionegro.com](https://vittorionegro.com/badges/website.svg)](https://vittorionegro.com)
 [![Contact me](https://vittorionegro.com/badges/contact.svg)](mailto:v@vittorionegro.com)
