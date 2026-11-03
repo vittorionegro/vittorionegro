@@ -4,7 +4,7 @@ Sysadmin @ [Overcloud S.r.l.](https://overcloud.it)
 Offensive security focus. Currently working through the HackTheBox Penetration Tester path toward **CPTS**.
 Practicing on HackTheBox and PortSwigger.
 
-My Writeups: [**/writeups**](https://github.com/vittorionegro/writeups)
+[![Writeups](https://img.shields.io/badge/📝_Writeups-HTB_·_PortSwigger-9FEF00?style=for-the-badge&labelColor=111927)](https://github.com/vittorionegro/writeups)
 
 ## stack
 
